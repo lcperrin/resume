@@ -60,10 +60,10 @@ Highly skilled Senior DevOps Engineer with several years of experience in cloud 
 - Network Deployment, and Troubleshooting
 - Scripting (PowerShell, Bash, Python)
 
- ### Adjunct Instructor
+### Adjunct Instructor
 **Southern Maine Community College** - Brunswick, Maine
 *2015 – 2016*
-Classes Taught:
+# Classes Taught:
 - Networking Fundamentals
 - Introduction to Virtualization
 
