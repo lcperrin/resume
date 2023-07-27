@@ -41,6 +41,15 @@ Highly skilled Senior DevOps Engineer with several years of experience in cloud 
 - Containerized legacy Python applications using Docker, enabling fast and repeatable deployments.
 - Implemented open-source software into Kubernetes, significantly reducing POC time.
 
+### Senior / Lead Associate Software Engineer (DevOps)
+**Capital One Finance** - Portland, Maine
+*2019 - 2021*
+- Create custom Helm Charts, and modify open source Helm charts for deployment
+into Kubernetes environments, to allow versioned infrastructure code
+- Convert Bitbucket Pipelines into Jenkins CI/CD pipelines
+- Convert legacy applications from VM templates to Kubernetes applications
+- Build deployment scripts (bash) to facilitate infrastructure creation and updates
+  
 ### Cloud Engineer
 **Covetrus** - Portland, Maine
 *2016 – 2019*
