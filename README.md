@@ -4,7 +4,7 @@
 - Email: lcperrin@gmail.com
 
 ## Summary
-Highly skilled Senior DevOps Engineer with several years of experience in cloud engineering, infrastructure management, and software development. Adept at leading teams and implementing best practices to ensure high availability, stability, and efficient CI/CD pipelines. Certified Google Cloud Professional Cloud Architect and AWS Solutions Architect.
+Highly skilled Senior DevOps Engineer with several years of experience in cloud engineering, infrastructure management, and software deployment. Adept at leading teams and implementing best practices to ensure high availability, stability, and efficient CI/CD pipelines. Certified Google Cloud Professional Cloud Architect and AWS Solutions Architect.
 
 ## Technical Skills
 - Led teams of engineers in both embedded and service models
