@@ -26,8 +26,20 @@ Highly skilled Senior DevOps Engineer with several years of experience in cloud 
 - Comptia A+/Network+/Security+
 - Microsoft Certified IT Professional
 
+## Technology Supported
+- HashiStack (Terraform, Ansible, Vault)
+- Kubernetes / Helm Charts
+- Apache Kafka / Zookeeper / Airflow / Superset
+- Confluent Kafka Stack
+- Talend Big Data / ESB
+- Jenkins / BitBucket Pipelines
+- SaltStack / SaltCloud IaC
+- Prometheus / Grafana Monitoring
+- Splunk Log Aggregator / Heavy Forwarder
+- AWS / GCP Cloud Services
+- Java / Python / Node / Ruby Server Stacks
+  
 ## Employment History
-
 ### Senior DevOps Engineer
 **Guideline, Inc.** - Portland, Maine
 *2022 – Present*
@@ -80,17 +92,3 @@ into Kubernetes environments, to allow versioned infrastructure code
 - **Associate in Applied Science in Computer Technology**
   - Southern Maine Community College
   - Graduated May 2013, with High Honors
-
-## Technology Supported
-- HashiStack (Terraform, Ansible, Vault)
-- Kubernetes / Helm Charts
-- Apache Kafka / Zookeeper / Airflow / Superset
-- Confluent Kafka Stack
-- Talend Big Data / ESB
-- Jenkins / BitBucket Pipelines
-- SaltStack / SaltCloud IaC
-- Prometheus / Grafana Monitoring
-- Splunk Log Aggregator / Heavy Forwarder
-- AWS / GCP Cloud Services
-- Java / Python / Node / Ruby Server Stacks
-
