@@ -6,39 +6,6 @@
 ## Summary
 Highly skilled Senior DevOps Engineer with several years of experience in cloud engineering, infrastructure management, and software deployment. Adept at leading teams and implementing best practices to ensure high availability, stability, and efficient CI/CD pipelines. Certified Google Cloud Professional Cloud Architect and AWS Solutions Architect.
 
-## Technical Skills
-- Led teams of engineers in both embedded and service models
-- Implemented best practices to ensure High Availability and Stability
-- Worked closely with application developers to debug and secure code
-- Built and maintained CI/CD platforms and pipelines
-
-## Soft Skills
-- Customer Service Focused
-- Trained Facilitator
-- Teacher / Trainer
-- Technical Writer
-- Group Leader
-
-## Certifications
-- Google Cloud Certified Professional Cloud Architect
-- AWS Certified Solutions Architect Associate
-- Certified Jenkins Engineer
-- Comptia A+/Network+/Security+
-- Microsoft Certified IT Professional
-
-## Technology Supported
-- HashiStack (Terraform, Ansible, Vault)
-- Kubernetes / Helm Charts
-- Apache Kafka / Zookeeper / Airflow / Superset
-- Confluent Kafka Stack
-- Talend Big Data / ESB
-- Jenkins / BitBucket Pipelines
-- SaltStack / SaltCloud IaC
-- Prometheus / Grafana Monitoring
-- Splunk Log Aggregator / Heavy Forwarder
-- AWS / GCP Cloud Services
-- Java / Python / Node / Ruby Server Stacks
-  
 ## Employment History
 ### Senior DevOps Engineer
 **Guideline, Inc.** - Portland, Maine
@@ -92,3 +59,30 @@ into Kubernetes environments, to allow versioned infrastructure code
 - **Associate in Applied Science in Computer Technology**
   - Southern Maine Community College
   - Graduated May 2013, with High Honors
+
+## Certifications
+- Google Cloud Certified Professional Cloud Architect
+- AWS Certified Solutions Architect Associate
+- Certified Jenkins Engineer
+- Comptia A+/Network+/Security+
+- Microsoft Certified IT Professional
+
+## Technology Supported
+- HashiStack (Terraform, Ansible, Vault)
+- Kubernetes / Helm Charts
+- Apache Kafka / Zookeeper / Airflow / Superset
+- Confluent Kafka Stack
+- Talend Big Data / ESB
+- Jenkins / BitBucket Pipelines
+- SaltStack / SaltCloud IaC
+- Prometheus / Grafana Monitoring
+- Splunk Log Aggregator / Heavy Forwarder
+- AWS / GCP Cloud Services
+- Java / Python / Node / Ruby Server Stacks
+
+## Soft Skills
+- Customer Service Focused
+- Trained Facilitator
+- Teacher / Trainer
+- Technical Writer
+- Group Leader
