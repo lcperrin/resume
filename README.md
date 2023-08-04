@@ -18,15 +18,15 @@ Highly skilled Senior DevOps Engineer with several years of experience in cloud 
 *2021 – 2022*
 - Created Kubernetes Clusters to enhance CI/CD processes and shorten feedback loops.
 - Containerized legacy Python applications using Docker, enabling fast and repeatable deployments.
-- Implemented open-source software into Kubernetes, significantly reducing POC time.
+- Implemented open-source solutions into Kubernetes, significantly reducing POC time.
 
 ### Senior / Lead Associate Software Engineer (DevOps)
 **Capital One Finance** - Portland, Maine
 *2019 - 2021*
-- Create custom Helm Charts, and modify open source Helm charts for deployment
-into Kubernetes environments, to allow versioned infrastructure code
+- Create custom Helm Charts, and modify open source Helm charts for deployment into Kubernetes environments, to allow versioned infrastructure code
 - Convert Bitbucket Pipelines into Jenkins CI/CD pipelines
 - Convert legacy applications from VM templates to Kubernetes applications
+- Convert Airstream deployment from managed service to hosted (k8s) for compliance, and build proprietary DAG deployment
 - Build deployment scripts (bash) to facilitate infrastructure creation and updates
   
 ### Cloud Engineer
