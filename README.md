@@ -1,10 +1,10 @@
-# Leon C Perrin
+  # Leon C Perrin
 ## Contact Information
 - Phone: (207) 815-6278
 - Email: lcperrin@gmail.com
 
 ## Summary
-Highly skilled Senior DevOps Engineer with several years of experience in cloud engineering, infrastructure management, and software deployment. Adept at leading teams and implementing best practices to ensure high availability, stability, and efficient CI/CD pipelines. Certified Google Cloud Professional Cloud Architect and AWS Solutions Architect.
+Highly skilled Senior DevOps Engineer with several years of experience in cloud engineering, infrastructure management, and software deployment. Managed Kubernetes clusters, and writted Helm Charts for workload deployment and management into Kubernetes. Adept at leading teams and implementing best practices to ensure high availability, stability, and efficient CI/CD pipelines. Certified Google Cloud Professional Cloud Architect and AWS Solutions Architect.
 
 ## Employment History
 ### Senior DevOps Engineer
@@ -12,12 +12,17 @@ Highly skilled Senior DevOps Engineer with several years of experience in cloud 
 *2022 – Present*
 - Improved processes, resulting in more efficient operations and actionable outputs.
 - Led efforts to reduce costs and optimize query times for cloud database infrastructure.
-
+- Created Helm Charts from scratch, using helm create, as well as modifying open source Helm Charts. 
+- Updated existing Helm Charts to include new features. 
+- Employed tools such as HadoLint to ensure Docker inage creation is correct and utilizing best practice. 
+ 
 ### Senior Software Engineer, DevOps
 **Encortex, LLC** - Boston, Massachusetts
 *2021 – 2022*
 - Created Kubernetes Clusters to enhance CI/CD processes and shorten feedback loops.
 - Containerized legacy Python applications using Docker, enabling fast and repeatable deployments.
+- Created custom Helm Charts from scratch, for proprietary workloads
+- Tested Helm Chart development with tools like helm lint
 - Implemented open-source solutions into Kubernetes, significantly reducing POC time.
 
 ### Senior / Lead Associate Software Engineer (DevOps)
@@ -28,7 +33,7 @@ Highly skilled Senior DevOps Engineer with several years of experience in cloud 
 - Convert legacy applications from VM templates to Kubernetes applications
 - Convert Airstream deployment from managed service to hosted (k8s) for compliance, and build proprietary DAG deployment
 - Build deployment scripts (bash) to facilitate infrastructure creation and updates
-  
+
 ### Cloud Engineer
 **Covetrus** - Portland, Maine
 *2016 – 2019*
