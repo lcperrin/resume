@@ -2,7 +2,6 @@
 ## Contact Information
 - Phone: (207) 815-6278
 - Email: lcperrin@gmail.com
-- [PDF Resume](https://github.com/lcperrin/resume/blob/main/lcperrinResume.pdf)
 
 ## Summary
 Results-driven Senior DevOps Engineer with over 5 years of experience in cloud operations and infrastructure. Proven expertise in building and maintaining secure enterprise-wide cloud environments using Terraform. Adept at collaborating with key stakeholders to implement cloud services with a focus on security, innovation, and reliability.
