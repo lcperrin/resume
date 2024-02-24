@@ -2,9 +2,18 @@
 ## Contact Information
 - Phone: (207) 815-6278
 - Email: lcperrin@gmail.com
+- [PDF Resume](https://github.com/lcperrin/resume/blob/main/lcperrinResume.pdf)
 
 ## Summary
-Highly skilled Senior DevOps Engineer with several years of experience in cloud engineering, infrastructure management, and software deployment. Managed Kubernetes clusters, and writted Helm Charts for workload deployment and management into Kubernetes. Adept at leading teams and implementing best practices to ensure high availability, stability, and efficient CI/CD pipelines. Certified Google Cloud Professional Cloud Architect and AWS Solutions Architect.
+Results-driven Senior DevOps Engineer with over 5 years of experience in cloud operations and infrastructure. Proven expertise in building and maintaining secure enterprise-wide cloud environments using Terraform. Adept at collaborating with key stakeholders to implement cloud services with a focus on security, innovation, and reliability.
+
+## Technical Skills
+- **Cloud Infrastructure:** Proficient in Terraform, with experience in AWS and GCP, and familiarity with Azure.
+- **Microservices:** Support and automate hundreds of services and data stores in a microservices architecture.
+- **Containerization and Serverless:** Utilize containerization and serverless technologies for secure and scalable cloud services.
+- **CI/CD:** Lead activities in CI/CD tooling build-out, automated testing frameworks, and development best practices.
+- **Monitoring and Redundancy:** Implement robust monitoring and redundancy solutions using modern SaaS-based tools.
+- **Security and Compliance:** Ensure compliance with information security best practices and regulatory requirements, taking personal responsibility for system and data security.
 
 ## Employment History
 ### Senior DevOps Engineer
@@ -71,16 +80,3 @@ Highly skilled Senior DevOps Engineer with several years of experience in cloud 
 - Certified Jenkins Engineer
 - Comptia A+/Network+/Security+
 - Microsoft Certified IT Professional
-
-## Technology Supported
-- HashiStack (Terraform, Ansible, Vault)
-- Kubernetes / Helm Charts
-- Apache Kafka / Zookeeper / Airflow / Superset
-- Confluent Kafka Stack
-- Talend Big Data / ESB
-- Jenkins / BitBucket Pipelines
-- SaltStack / SaltCloud IaC
-- Prometheus / Grafana Monitoring
-- Splunk Log Aggregator / Heavy Forwarder
-- AWS / GCP Cloud Services
-- Java / Python / Node / Ruby Server Stacks
