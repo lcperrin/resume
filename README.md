@@ -4,7 +4,7 @@
 - Email: lcperrin@gmail.com
 
 ## Summary
-Results-driven Senior DevOps Engineer with over 5 years of experience in cloud operations and infrastructure. Proven expertise in building and maintaining secure enterprise-wide cloud environments using Terraform. Adept at collaborating with key stakeholders to implement cloud services with a focus on security, innovation, and reliability.
+Results-driven Senior DevOps Engineer with over 8 years of experience in cloud operations and infrastructure. Proven expertise in building and maintaining secure enterprise-wide cloud environments using Infrastructure as Code frameworks such as Terraform, CloudFormation, SaltStack, and Packer. Adept at collaborating with key stakeholders to implement cloud services with a focus on security, innovation, and reliability.
 
 ## Technical Skills
 - **Cloud Infrastructure:** Proficient in Terraform, with experience in AWS and GCP, and familiarity with Azure.
@@ -28,39 +28,44 @@ Results-driven Senior DevOps Engineer with over 5 years of experience in cloud o
 ### Senior Software Engineer, DevOps
 **Encortex, LLC** - Boston, Massachusetts
 *2021 – 2022*
-- Created Kubernetes Clusters to enhance CI/CD processes and shorten feedback loops.
-- Containerized legacy Python applications using Docker, enabling fast and repeatable deployments.
-- Created custom Helm Charts from scratch, for proprietary workloads
-- Tested Helm Chart development with tools like helm lint
-- Implemented open-source solutions into Kubernetes, significantly reducing POC time.
+- Orchestrated the creation of Kubernetes Clusters, optimizing CI/CD processes and reducing feedback loop durations.
+- Employed Docker to containerize legacy Python applications, resulting in swift and reproducible deployment workflows.
+- Developed bespoke Helm Charts from the ground up to cater to proprietary workloads, demonstrating proficiency in chart customization.
+- Conducted thorough testing of Helm Chart development using tools like helm lint, ensuring the reliability and efficiency of deployment configurations.
+- Integrated open-source solutions seamlessly into Kubernetes, notably slashing Proof of Concept (POC) timelines for enhanced project efficiency.
 
 ### Senior / Lead Associate Software Engineer (DevOps)
 **Capital One Finance** - Portland, Maine
 *2019 - 2021*
-- Create custom Helm Charts, and modify open source Helm charts for deployment into Kubernetes environments, to allow versioned infrastructure code
-- Convert Bitbucket Pipelines into Jenkins CI/CD pipelines
-- Convert legacy applications from VM templates to Kubernetes applications
-- Convert Airstream deployment from managed service to hosted (k8s) for compliance, and build proprietary DAG deployment
-- Build deployment scripts (bash) to facilitate infrastructure creation and updates
+- Revamped the GCP environment to meet elevated compliance standards.
+- Crafted bespoke Helm Charts and adapted open-source Helm charts for deployment into Kubernetes environments, fostering versioned infrastructure code practices.
+- Transitioned from Bitbucket Pipelines to Jenkins CI/CD pipelines, streamlining and enhancing the continuous integration and deployment workflows.
+- Migrated legacy applications from traditional VM templates to Kubernetes applications, optimizing scalability and resource efficiency.
+- Ensured compliance by converting Airstream deployment from a managed service to a hosted solution in Kubernetes, concurrently developing a proprietary Directed Acyclic Graph (DAG) deployment.
+- Developed and implemented deployment scripts (bash) to facilitate the seamless creation and updates of infrastructure, contributing to enhanced automation and efficiency.
 
 ### Cloud Engineer
 **Covetrus** - Portland, Maine
 *2016 – 2019*
-- Specialize in Server Configuration, with emphasis on High Availability / Disaster Recovery / Auto-Scaling
-- Salt Stack Configuration Management
-- CI/CD Software Deployment (Jenkins / ECS, and Bamboo / Elastic Beanstalk)
-- Proficient with Linux and Windows Server OS
-- Secure File Transfer and Delivery
-- Process Improvement
-- Microservices and Blue / Green Deployment
-- Docker / ECS Containers
-- Scripting (PowerShell, Bash, Python)
+- Focused expertise in Server Configuration, with a strong emphasis on ensuring High Availability, Disaster Recovery, and efficient Auto-Scaling.
+- Utilized Salt Stack Configuration Management for streamlined and efficient server configurations.
+- Spearheaded CI/CD Software Deployment using various tools such as Jenkins/ECS and Bamboo/Elastic Beanstalk, enhancing deployment workflows.
+- Demonstrated proficiency in managing both Linux and Windows Server Operating Systems.
+- Ensured secure file transfer and delivery mechanisms, aligning with best practices in data security.
+- Actively contributed to Process Improvement initiatives, optimizing operational workflows for increased efficiency.
+- Applied expertise in Microservices architecture and executed Blue/Green Deployment strategies for enhanced deployment flexibility.
+- Effectively worked with Docker/ECS containers, contributing to scalable and containerized application deployment.
+- Employed scripting languages including PowerShell, Bash, and Python for automation and task efficiency.
 
 ### Senior Desktop Administrator
 **Sappi North America** - South Portland, Maine
 *2013 - 2016*
-- Network Deployment, and Troubleshooting
-- Scripting (PowerShell, Bash, Python)
+- Spearheaded Network Deployment and Troubleshooting initiatives.
+- Demonstrated expertise in Scripting using PowerShell, Bash, and Python.
+- Oversaw application deployments and updates.
+- Managed workstation imaging deployment and updates.
+- Administered workstation backups.
+- Established a virtual testing lab.
 
 ### Adjunct Instructor
 **Southern Maine Community College** - Brunswick, Maine
