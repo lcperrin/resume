@@ -24,6 +24,7 @@ Results-driven Senior DevOps Engineer with over 8 years of experience in cloud o
 - Broke down high-level requirements into manageable tasks, working closely with the Team Lead to achieve project milestones.
 - Participated in cloud engineering activities, including CI/CD tooling, serverless frameworks, and data storage architecture.
 - Recommended and implemented improvements to IT policies for an agile and innovative culture.
+- Sustained Kubernetes clusters and managed deployments.
 
 ### Senior Software Engineer, DevOps
 **Encortex, LLC** - Boston, Massachusetts
