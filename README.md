@@ -18,11 +18,11 @@ Results-driven Senior DevOps Engineer with over 8 years of experience in cloud o
 ### Senior DevOps Engineer
 **Guideline, Inc.** - Portland, Maine
 *2022 – Present*
-- Led the build and maintenance of secure enterprise-wide cloud environments.
-- Automated and operationalized all aspects of cloud environment creation and maintenance.
-- Collaborated with engineering, operational, and business stakeholders to build secure cloud services with containerization, serverless, and streaming technologies.
-- Broke down high-level requirements into manageable tasks, working closely with the Team Lead to achieve project milestones.
-- Participated in cloud engineering activities, including CI/CD tooling, serverless frameworks, and data storage architecture.
+- Enhanced operational efficiency by refining processes for more actionable outputs.
+- Took the lead in cost reduction initiatives and streamlined query times for cloud database infrastructure.
+- Developed Helm Charts from the ground up, utilizing 'helm create,' and modified open-source Helm Charts.
+- Implemented updates to existing Helm Charts, incorporating new features.
+- Ensured Docker image creation correctness and adherence to best practices using tools like HadoLint.
 - Recommended and implemented improvements to IT policies for an agile and innovative culture.
 - Sustained Kubernetes clusters and managed deployments.
 
