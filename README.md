@@ -9,7 +9,7 @@ Results-driven Senior DevOps Engineer with over 8 years of experience in cloud o
 ## Technical Skills
 - **Cloud Infrastructure:** Proficient in Terraform, with experience in AWS and GCP, and familiarity with Azure.
 - **Microservices:** Support and automate hundreds of services and data stores in a microservices architecture.
-- **Containerization and Serverless:** Utilize containerization and serverless technologies for secure and scalable cloud services.
+- **Containerization:** Utilize containerization technologies for secure and scalable cloud services.
 - **CI/CD:** Lead activities in CI/CD tooling build-out, automated testing frameworks, and development best practices.
 - **Monitoring and Redundancy:** Implement robust monitoring and redundancy solutions using modern SaaS-based tools.
 - **Security and Compliance:** Ensure compliance with information security best practices and regulatory requirements, taking personal responsibility for system and data security.
