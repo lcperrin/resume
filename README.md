@@ -4,7 +4,7 @@
 - Email: lcperrin@gmail.com
 
 ## Summary
-Results-driven Senior DevOps Engineer with over 8 years of experience in cloud operations and infrastructure. Proven expertise in building and maintaining secure enterprise-wide cloud environments using Infrastructure as Code frameworks such as Terraform, CloudFormation, SaltStack, and Packer. Adept at collaborating with key stakeholders to implement cloud services with a focus on security, innovation, and reliability.
+Results-driven Senior Cloud Operations Engineer with over 8 years of experience in cloud operations and infrastructure. Proven expertise in building and maintaining secure enterprise-wide cloud environments using Infrastructure as Code frameworks such as Terraform, CloudFormation, SaltStack, and Packer. Adept at collaborating with key stakeholders to implement cloud services with a focus on security, innovation, and reliability.
 
 ## Technical Skills
 - **Cloud Infrastructure:** Proficient in Terraform, with experience in AWS and GCP, and familiarity with Azure.
@@ -15,9 +15,16 @@ Results-driven Senior DevOps Engineer with over 8 years of experience in cloud o
 - **Security and Compliance:** Ensure compliance with information security best practices and regulatory requirements, taking personal responsibility for system and data security.
 
 ## Employment History
+### Senior Cloud Ops Engineer
+**Tyler Technology** - Yarmouth, Maine
+*2025 - Present*
+- Led effort to migrate from Broadcom cloud to AWS
+- Created processes to inventory installed software and evaluate for End of Life status
+- Mentored team to fill in knowledge gaps 
+
 ### Senior DevOps Engineer
 **Guideline, Inc.** - Portland, Maine
-*2022 – Present*
+*2022 – 2025*
 - Enhanced operational efficiency by refining processes for more actionable outputs.
 - Took the lead in cost reduction initiatives and streamlined query times for cloud database infrastructure.
 - Developed Helm Charts from the ground up, utilizing 'helm create,' and modified open-source Helm Charts.
